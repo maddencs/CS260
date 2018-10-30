@@ -1,0 +1,10 @@
+Eminem; Lucky You;3.5;100000000;144122183
+Eminem; The Ringer;2.8;838388;84320370
+Eminem; Killshot;2.5;99999;100000
+David Bowie; Starman;4.5;80333224;96372424
+David Bowie; Heroes;3.2;1234567;1440000
+The Polish Ambassador;Let The Rhythm Just;3.5;3000000;6750000
+The Polish Ambassador;Shine Bright;3.25;200000;1666796
+The Polish Ambassador; Vision  Fiberoptics;4.1;125000;1835677
+The Polish Ambassador; Take Wing;2.8;40000;810554
+The Polish Ambassador; Chill or Be Chilled;3.9;20000;1914927
